@@ -1,3 +1,4 @@
+
 hooksecurefunc("CompactUnitFrame_UpdateAll", function(frame)
     if frame:IsForbidden() or not frame:IsVisible() or not frame.buffFrames or not DefaultCompactUnitFrameSetupOptions.displayPowerBar then return end
 
