@@ -2,6 +2,6 @@
 ## Interface: 80100
 ## Notes: Displays power bars for healing roles only.
 ## Author: Click @ Tichondrius
-## Version: 1.0
+## Version: 1.0.1
 
-BuffOverlay.lua
+HealerManaOnly.lua
