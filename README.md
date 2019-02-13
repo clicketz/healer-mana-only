@@ -8,10 +8,10 @@ This **extremely** lightweight addon was created for people to quickly and easil
 - Does not taint.
 
 **Contribution:**
-- [Report bugs]()
+- [Report bugs](https://wow.curseforge.com/projects/healer-mana-only/issues)
 
 **Download:**
 
 [WoWInterface](https://www.wowinterface.com/downloads/)
 
-[Curseforge](https://www.curseforge.com/wow/addons/)
+[Curseforge](https://www.curseforge.com/wow/addons/healer-mana-only)
