@@ -1,4 +1,4 @@
-package-as: HealerOnlyMana
+package-as: HealerManaOnly
 
 enable-nolib-creation: no
 
