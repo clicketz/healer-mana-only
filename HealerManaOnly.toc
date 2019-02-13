@@ -1,0 +1,7 @@
+## Title: Healer Mana Only
+## Interface: 80100
+## Notes: Displays power bars for healing roles only.
+## Author: Click @ Tichondrius
+## Version: 1.0
+
+BuffOverlay.lua
